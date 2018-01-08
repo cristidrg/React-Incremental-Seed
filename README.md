@@ -6,6 +6,6 @@ The purpose of this project is to create a seed for developing incremental games
 
 The codebase is commented, however I suggest starting here: https://github.com/cristidrg/React-Incremental-Seed/blob/master/src/index.js
 
-To open this project simply run npm install. 
+To install this project simply run npm install and then npm run start .
 
 For a bigger/more detailed project check https://github.com/cristidrg/Google-Keep-React
